@@ -1,0 +1,27 @@
+*{
+    font-size: 18px;
+    font-family: arial, verdana;
+    background-color: beige;
+    text-align: center;
+}
+
+img{
+    border-radius: ;
+}
+h1{
+    font-size: 34px;
+    font-weight: 800;
+    style:"width: 300px";
+    padding: 30px;
+    background-color: rgb(194, 76, 76);
+}
+
+h3{
+    font-size: 24px;
+    text-align: left;
+    font-weight: 800;
+}
+
+ul,ol,li{
+    text-align: left;
+}
