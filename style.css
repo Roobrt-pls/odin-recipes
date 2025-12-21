@@ -6,14 +6,19 @@
 }
 
 img{
-    border-radius: ;
+     box-sizing: content-box;
+    padding: 5px;
+    border: 10px solid black;
 }
+
 h1{
     font-size: 34px;
     font-weight: 800;
-    style:"width: 300px";
     padding: 30px;
     background-color: rgb(194, 76, 76);
+    box-sizing: content-box;
+    width: 700;
+    display: inline-block;
 }
 
 h3{
