@@ -23,10 +23,20 @@ h1{
 
 h3{
     font-size: 24px;
-    text-align: left;
     font-weight: 800;
 }
 
 ul,ol,li{
     text-align: left;
+}
+
+ul,ol,{
+    box-sizing: content-box;
+    display: inline-block;
+    width: 600px;
+    text-align: center;
+}
+
+#desc{
+    width: 600px auto;
 }
